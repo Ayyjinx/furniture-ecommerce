@@ -6,7 +6,7 @@ python manage.py createsuperuser to create an admin user rn its aj (password RUB
 all users are stored in django database
 their addresses can also be stored here
 superuser: username admin1 pass admin1
-
+do pip install django 
 
 add if user authentication for checkout to see if the user is logged in or not
 if not then redirect to register/login
